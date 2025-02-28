@@ -61,6 +61,8 @@ EDA info_screenshots
 ![Preprocess Sample1](<screenshots/Preprocess Sample1.png>)
 ![Preprocess Sample2](<screenshots/Preprocess Sample2.png>)
 - Model Comparison
+![Model Comparison1](<screenshots/Model Comparison1.png>)
+![Model Comparison2](<screenshots/Model Comparison2.png>)
 - Model Report
 - Evaluation Matrix
 - Evaluation Report
