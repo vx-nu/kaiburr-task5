@@ -52,6 +52,7 @@ EDA info_screenshots
 - ![EDA info_screenshot 3](<screenshots/EDA info_screenshot 3.png>)
 - ![EDA info_screenshot 4](<screenshots/EDA info_screenshot 4.png>)
 - EDA Distribution
+- ![EDA Distribution](<screenshots/EDA Distribution.png>)
 - EDA WordCloud
 - Preprocess Info
 - Preprocess Sample 
