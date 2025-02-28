@@ -47,10 +47,7 @@ Run the script (right-click task5.py, select Run 'task5.py') to perform EDA, pre
 ## Screenshots
 All screenshots demonstrate the analysis and results, including my name ("Vishnuus") and the current date/time (February 28, 2025, 03:27 PM IST) for verification. They are stored in the screenshots folder and linked below:
 EDA info_screenshots
-- ![EDA info_screenshot 1](<screenshots/EDA info_screenshot 1.png>)
-- ![EDA info_screenshot 2](<screenshots/EDA info_screenshot 2.png>)
-- ![EDA info_screenshot 3](<screenshots/EDA info_screenshot 3.png>)
-- ![EDA info_screenshot 4](<screenshots/EDA info_screenshot 4.png>)
+
 - EDA Distribution
 - EDA WordCloud
 - Preprocess Info
