@@ -69,6 +69,7 @@ EDA info_screenshots
 - Evaluation Report
 ![Evaluation Report](<screenshots/Evaluation Report.png>)
 - Prediction Output
+![Prediction Output](<screenshots/Prediction Output.png>)
 
 ## Notes
 - Due to the dataset’s size (>1GB), the analysis is limited to the first 100,000 records for processing constraints.
@@ -76,6 +77,6 @@ EDA info_screenshots
 - This documentation adheres to Kaiburr’s requirement for high-quality code and documentation, prioritized for clarity and professionalism.
 
 ## Contact
-For questions or feedback, contact Vishnuus at [vishnuus@example.com] (replace with your actual email if applicable).
+For questions or feedback, contact Vishnuus at [vishnuus934@gmail.com] 
 
 
