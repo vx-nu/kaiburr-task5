@@ -71,10 +71,6 @@ EDA info_screenshots
 - Prediction Output
 ![Prediction Output](<screenshots/Prediction Output.png>)
 
-## Notes
-- Due to the dataset’s size (>1GB), the analysis is limited to the first 100,000 records for processing constraints.
-- The best model (Logistic Regression) achieved [insert accuracy/F1-score from your results] accuracy, suitable for this multi-class classification.
-- This documentation adheres to Kaiburr’s requirement for high-quality code and documentation, prioritized for clarity and professionalism.
 
 ## Contact
 For questions or feedback, contact Vishnuus at [vishnuus934@gmail.com] 
