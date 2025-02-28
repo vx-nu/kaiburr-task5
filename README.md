@@ -66,8 +66,8 @@ EDA info_screenshots
 ![report](<screenshots/report.png>)
 - Evaluation Matrix
 ![Evaluation Matrix](<screenshots/Evaluation Matrix.png>)
-
 - Evaluation Report
+![Evaluation Report](<screenshots/Evaluation Report.png>)
 - Prediction Output
 
 ## Notes
