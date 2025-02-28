@@ -57,7 +57,9 @@ EDA info_screenshots
 ![EDA WordCloud](<screenshots/EDA WordCloud.png>)
 - Preprocess Info
 ![Preprocess Info](<screenshots/Preprocess Info.png>)
-- Preprocess Sample 
+- Preprocess Sample
+![Preprocess Sample1](<screenshots/Preprocess Sample1.png>)
+![Preprocess Sample2](<screenshots/Preprocess Sample2.png>)
 - Model Comparison
 - Model Report
 - Evaluation Matrix
